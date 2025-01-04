@@ -1,0 +1,26 @@
+class CropImages {
+  static Map<String, String> cropsImages = {
+    "Rice": "Rice.png",
+    "Maize": "Maize.png",
+    "Jute": "Jute.png",
+    "Cotton": "Cotton.png",
+    "Coconut": "Coconut.png",
+    "Papaya": "Papaya.png",
+    "Orange": "Orange.png",
+    "Apple": "Apple.png",
+    "Muskmelon": "Muskmelon.png",
+    "Watermelon": "Watermelon.png",
+    "Grapes": "Grapes.png",
+    "Mango": "Mango.png",
+    "Banana": "Banana.png",
+    "Pomegranate": "Pomegranate.png",
+    "Lentil": "Lentil.png",
+    "Blackgram": "Blackgram.png",
+    "Mungbean": "Mungbean.png",
+    "Mothbeans": "Mothbeans.png",
+    "Pigeonpeas": "Pigeonpeas.png",
+    "Kidneybeans": "Kidneybeans.png",
+    "Chickpea": "Chickpea.png",
+    "Coffee": "Coffee.png",
+  };
+}

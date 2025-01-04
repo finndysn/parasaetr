@@ -1,0 +1,93 @@
+{
+   "checksum": "c02173c7c33dfadee692401ebda6e6b9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13278887627739513",
+               "date_last_used": "0",
+               "guid": "39e96ea7-f4ff-4330-8471-ca15afb830ea",
+               "id": "10",
+               "name": "Lenovo Support",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://support.lenovo.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13278887627739513",
+               "date_last_used": "0",
+               "guid": "63a07da9-2463-47f1-8bb5-31f485359a5d",
+               "id": "11",
+               "name": "Lenovo",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.lenovo.com/",
+               "visit_count": 0
+            }, {
+               "children": [ {
+                  "date_added": "13314420530694778",
+                  "date_last_used": "0",
+                  "guid": "4d6181d6-5281-4c11-aeaa-a41c3705a29d",
+                  "id": "13",
+                  "name": "Free Text to Speech Online with AI Powered Voices",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.naturalreaders.com/online/",
+                  "visit_count": 0
+               } ],
+               "date_added": "13314420546747981",
+               "date_last_used": "0",
+               "date_modified": "13314420546747981",
+               "guid": "be2b8d1b-f335-4801-addd-92b7e44dedba",
+               "id": "12",
+               "name": "voice",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13380401975660969",
+            "date_last_used": "0",
+            "date_modified": "13380401976125657",
+            "guid": "21a4c7b6-4eba-4eb3-9fbc-337b25612f91",
+            "id": "9",
+            "name": "Lenovo",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13380401970611987",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13380401970611990",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13380401970611992",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCKmBYS2UAQAAKg4QABgBIAAoBTAAOABAABIAKhhERVk3cUtrTllNeGYxakF1WnBwQS9nPT1IA6AGDBKtAQgMEqgBChxQek10UkQ3eUhBeXBxMllabnFZU2x2QzRIU0k9EiRiZTJiOGQxYi1mMzM1LTQ4MDEtYWRkZC05MmI3ZTQ0ZGVkYmEYACAAKAAwlP3ghM0wOLT+4ITNMEC0/uCEzTBKHEQyajVSMkFJSlJsWkpNMEV6czQ2WDdHYUwzWT1aHyId7U9xdmZHbVpyRUx4NnA5QlhhaHNyQTcwREZwVT1lAAAAAMI+AmAAEqwBCAoSpwEKHEdHNk1nNUFqMkZLcExSdGhoSnNyQ0lFVXBlST0SJDM5ZTk2ZWE3LWY0ZmYtNDMzMC04NDcxLWNhMTVhZmI4MzBlYRgAIAAoADCL0tbR1S84mOb3yOsvQJjm98jrL0ocelhwM1g4aFJEQVovbCthT0tIdUFQZkwrUkxJPVoeIhxoMkhnbnloS1FWeitoVE5GMW9BQWZPZGJkM0k9ZQAAAADCPgJgAhKsAQgJEqcBChwxeHFWWWljVVZKUzFrbUpOUnhsSlh1Z081cnc9EiQyMWE0YzdiNi00ZWJhLTRlYjMtOWZiYy0zMzdiMjU2MTJmOTEYACAAKAAwi9LW0dUvOIjm98jrL0CI5vfI6y9KHEluNGt5elJmOGVqc25nRktQLzBvZk9BOTBYUT1aHiIcRlNETmloV3NxbEIzTElXTzNZL0U4K2IxaDZRPWUAAAAAwj4CYAASjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkYTFjOTQ1OTctY2UzMy01ODc3LWI0NTctN2ZiMzZiYjQwNGNmGAAgACgAMPT3/4S0MDib5ffI6y9Am+X3yOsvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEq0BCAsSqAEKHGpwZUN1Mmowa1VYbVVUcXdWc1podkk5N3JPZz0SJDYzYTA3ZGE5LTI0NjMtNDdmMS04YmI1LTMxZjQ4NTM1OWE1ZBgAIAAoADCL0tbR1S84t+b3yOsvQLfm98jrL0ocZk5TVm5CYmNqeXRIM0JvdXE3azNzZzZNS3VJPVofIh20TUhLOUw5ZTVaNkZxck5EemlUb1dvaFRhQ0NNPWUAAAAAwj4CYAISjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMjkzZWIyMWMtMDQ3Mi01ZDcwLTk3MjUtMWIzNDI3OTkzN2RjGAAgACgAMPT3/4S0MDjc5PfI6y9A3OT3yOsvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEqwBCA0SpwEKHE5Fd0F6aXpmbDVGQ29sczg3dGRYaUFvZDRjST0SJDRkNjE4MWQ2LTUyODEtNGMxMS1hZWFhLWE0MWMzNzA1YTI5ZBgAIAAoADCHguGEzTA48YLghM0wQPGC4ITNMEocb3JreEpwK3ZoTS9aNDJkYjN5RjRZMXpCRjJJPVoeIhxld1NHU2RGUlRJTlFmc3FQZmIxcWF3ZnltdEE9ZYxDwKPCPgJgBRKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQzMWRkYWRiMS1hZWRhLTU1ZGMtODI5MS1jOTRlMjQ5MjAwM2YYACAAKAAw9Pf/hLQwOPvk98jrL0D75PfI6y9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}
